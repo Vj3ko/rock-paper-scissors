@@ -27,7 +27,7 @@ If the player wins, they gain 1 point. If the computer wins, the player loses on
 
 ## Check it live
 
-[live preview](link)
+[Live preview of the game](https://rock-paper-scissors-2gi.pages.dev/)
 
 ## Run locally
 

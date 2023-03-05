@@ -28,6 +28,10 @@ function App() {
   const [mute, setMute] = useState(true);
 
   useEffect(() => {
+    localStorage.setItem('hard', JSON.stringify(0));
+  }, []);
+
+  useEffect(() => {
     localStorage.setItem(level, score);
   }, [score]);
 

@@ -10,7 +10,7 @@ export const GlobalStyles = createGlobalStyle`
 
   body {
     background: ${({ theme }) => theme.bg};
-    font-family: "Barlow Semi Condensed", sans-serif;
+    font-family: "Barlow Semi Condensed", sans-serif,'Courier New', Courier, monospace;
   }
 
   
